@@ -8,3 +8,16 @@
     border: none;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
+.watch-ctg-bg{
+    background-color: orange;
+    border-radius: 10px;
+}
+.bag-ctg-bg{
+    background-color: orchid;
+    border-radius: 10px;
+}
+.shoe-ctg-bg{
+    background-color: blue;
+    border-radius: 10px;
+}
+
